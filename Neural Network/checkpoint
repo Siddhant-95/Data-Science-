@@ -1,0 +1,2 @@
+model_checkpoint_path: "mywt.ff"
+all_model_checkpoint_paths: "mywt.ff"
